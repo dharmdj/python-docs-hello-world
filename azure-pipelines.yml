@@ -14,7 +14,7 @@ variables:
   webAppName: 'azuredevopstestwebapp1'
 
   # Agent VM image name
-  vmImageName: 'ubuntu-latest'
+  vmImageName: 'azuredevopsVM'
 
   # Environment name
   environmentName: 'azuredevopstestwebapp1'
